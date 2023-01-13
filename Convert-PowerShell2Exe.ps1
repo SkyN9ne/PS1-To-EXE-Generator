@@ -1,8 +1,8 @@
 #========================================================================
 #
-# Tool Name	: PS1 To EXE Generator
-# Author 	: Damien VAN ROBAEYS
-# Website	: http://www.systanddeploy.com/
+# 
+#
+# Website	: https://systanddeploy.com
 # Twitter	: https://twitter.com/syst_and_deploy
 #
 #========================================================================
